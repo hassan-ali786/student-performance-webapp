@@ -16,10 +16,7 @@ The system compares multiple machine learning models and automatically selects t
 
 ## **Video Demo**
 
-
-
-https://github.com/user-attachments/assets/41c396ac-b262-4b7e-a8fa-8c7aed1ed510
-
+<video src="https://github.com/user-attachments/assets/41c396ac-b262-4b7e-a8fa-8c7aed1ed510" width="100%" controls></video>
 
 ---
 
